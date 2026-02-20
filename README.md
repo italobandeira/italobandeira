@@ -7,7 +7,7 @@
 
 ### 🚀 Sobre Mim
 * 💡 Sou Engenheiro de Software, apaixonado por tecnologia e design de alto impacto.
-* 💻 Atualmente dedico meu foco na construção e expansão do meu próprio SaaS.
+* 💻 Atualmente dedico meu foco no desenvolvimento de serviços e soluções que possam ajudar pessoas.
 * 🤝 Sempre aberto a conexões, parcerias e boas conversas sobre tecnologia e negócios.
 
 ---

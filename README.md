@@ -13,7 +13,7 @@
 ---
 
 ### ⚡ Meu SaaS: Energia Enxuta
-O **[Energia Enxuta](https://energiaenxuta.com/)** é a plataforma que construí para [escreva aqui uma frase curta e forte sobre o problema que seu SaaS resolve]. 
+O **[Energia Enxuta](https://energiaenxuta.com/)** é uma plataforma simples que mostra, na prática, como economizar energia em casa sem complicação, em poucos minutos você já vê onde está gastando mais e quanto pode reduzir na próxima fatura. 
 
 Se você tem interesse em otimização, eficiência e soluções enxutas, te convido a acessar o site e conhecer o projeto!
 

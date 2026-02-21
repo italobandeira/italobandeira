@@ -29,14 +29,6 @@ Se você tem interesse em otimização, eficiência e soluções enxutas, te con
 
 ---
 
-### 📊 Meus Status
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=italobandeira&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=white" height="150" alt="Estatísticas do Ítalo"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobandeira&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=white" height="150" alt="Linguagens mais usadas"/>
-</div>
-
----
-
 ### 📫 Vamos nos conectar?
 <div align="center">
   <a href="https://www.linkedin.com/in/italo-bandeira-035975106" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

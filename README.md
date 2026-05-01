@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Ítalo Bandeira! 👋</h1>
-  <p>Desenvolvedor Full Stack | Criador do <a href="https://energiaenxuta.com/">Energia Enxuta</a></p>
+  <p>Desenvolvedor Full Stack | Designer Gráfico</p>
 </div>
 
 ---

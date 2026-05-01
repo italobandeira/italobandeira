@@ -12,13 +12,6 @@
 
 ---
 
-### ⚡ Meu SaaS: Energia Enxuta
-O **[Energia Enxuta](https://energiaenxuta.com/)** é uma plataforma simples que mostra, na prática, como economizar energia em casa sem complicação, em poucos minutos você já vê onde está gastando mais e quanto pode reduzir na próxima fatura. 
-
-Se você tem interesse em otimização, eficiência e soluções enxutas, te convido a acessar o site e conhecer o projeto!
-
----
-
 ### 🛠️ Minhas Skills
 <div align="center">
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
